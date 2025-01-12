@@ -1,0 +1,12 @@
+/home/stacknowtech/templates/dotnet/publish/DotNetApp
+/home/stacknowtech/templates/dotnet/publish/appsettings.Development.json
+/home/stacknowtech/templates/dotnet/publish/appsettings.json
+/home/stacknowtech/templates/dotnet/publish/DotNetApp.dll
+/home/stacknowtech/templates/dotnet/publish/DotNetApp.deps.json
+/home/stacknowtech/templates/dotnet/publish/DotNetApp.runtimeconfig.json
+/home/stacknowtech/templates/dotnet/publish/DotNetApp.pdb
+/home/stacknowtech/templates/dotnet/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/stacknowtech/templates/dotnet/publish/Microsoft.OpenApi.dll
+/home/stacknowtech/templates/dotnet/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/stacknowtech/templates/dotnet/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/stacknowtech/templates/dotnet/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
